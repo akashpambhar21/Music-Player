@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612608231302",
+    "project_id": "music-player-6910a",
+    "storage_bucket": "music-player-6910a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612608231302:android:d998d6d03cbb6981f1ce07",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612608231302-g9av8u8qhn447og55kn25ot17u1f24k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_player",
+            "certificate_hash": "a9f371998a9a8226f2866f26ce2db74a646a7b1e"
+          }
+        },
+        {
+          "client_id": "612608231302-kk94mpa205u1qulhpepc8ges3v8cu156.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMk9fTA9RogqXrVP4gTR7albJbSR466vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612608231302-kk94mpa205u1qulhpepc8ges3v8cu156.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
