@@ -46,8 +46,6 @@ flutter pub get
 * Database
 * Local storage songs
 * Online songs added by admin
-* Playlist
-* Search song
 
 ## Admin Features:
 * Add songs
